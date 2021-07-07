@@ -36,15 +36,15 @@ Artigo sobre as diferentes formas de implementar plataforma 2D
 http://higherorderfun.com/blog/2012/05/20/the-guide-to-implementing-2d-platformers/  
 
 Usando QuadTrees para dividir os objetos em regiões e evitar checagem de colisão desnecessária  
-https://gamedevelopment.tutsplus.com/tutorials/quick-tip-use-quadtrees-to-detec  
+https://gamedevelopment.tutsplus.com/tutorials/quick-tip-use-quadtrees-to-detect-likely-collisions-in-2d-space--gamedev-374  
 
-Implementação da QuadTreet-likely-collisions-in-2d-space--gamedev-374  
-http://www.mikechambers.com/blog/2011/03/21/javascript-quadtree-impleme  
+Implementação da QuadTree  
+http://www.mikechambers.com/blog/2011/03/21/javascript-quadtree-implementation/  
 
-O básico de colisões em 2Dntation/  
-http://devmag.org.za/2009/04/13/basic-collisio  
+O básico de colisões em 2D
+http://devmag.org.za/2009/04/13/basic-collision-detection-in-2d-part-1/  
 
-Sobre a física dos Sonic para Mega Driven-detection-in-2d-part-1/  
+Sobre a física dos Sonic para Mega Drive  
 http://info.sonicretro.org/Sonic_Physics_Guide  
 
 Colisão entre circulo e retângulo  
