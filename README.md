@@ -41,7 +41,7 @@ https://gamedevelopment.tutsplus.com/tutorials/quick-tip-use-quadtrees-to-detect
 Implementação da QuadTree  
 http://www.mikechambers.com/blog/2011/03/21/javascript-quadtree-implementation/  
 
-O básico de colisões em 2D
+O básico de colisões em 2D  
 http://devmag.org.za/2009/04/13/basic-collision-detection-in-2d-part-1/  
 
 Sobre a física dos Sonic para Mega Drive  
